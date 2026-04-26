@@ -1,3 +1,5 @@
 udistrital\edu\co\ruletacc\model\Nodo.class
-udistrital\edu\co\ruletacc\RuletaCC.class
+udistrital\edu\co\ruletacc\controller\Controller.class
+udistrital\edu\co\ruletacc\controller\RuletaCC.class
+udistrital\edu\co\ruletacc\model\ListaCircular.class
 udistrital\edu\co\ruletacc\view\VistaConsola.class
