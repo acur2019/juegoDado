@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"udistrital.edu.co.ruletacc"},{"l":"udistrital.edu.co.ruletacc.model"},{"l":"udistrital.edu.co.ruletacc.view"}];updateSearchResults();

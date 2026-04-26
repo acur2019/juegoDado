@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'C:/Users/acurr/OneDrive/Documentos/NetBeansProjects/ruletaCC/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/acurr/OneDrive/Documentos/NetBeansProjects/ruletaCC/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ruletaCC 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ruletaCC 1.0-SNAPSHOT API'
+udistrital.edu.co.ruletacc.model
+udistrital.edu.co.ruletacc
+udistrital.edu.co.ruletacc.view
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\src\main\java = 1777161921148
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\allclasses-index.html = 1777166982752
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\allpackages-index.html = 1777166982761
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\element-list = 1777166982536
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\help-doc.html = 1777166982836
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\index-all.html = 1777166982815
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\index.html = 1777166982719
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\member-search-index.js = 1777166982775
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\module-search-index.js = 1777166982764
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\overview-summary.html = 1777166982827
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\overview-tree.html = 1777166982701
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\package-search-index.js = 1777166982769
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\search.html = 1777166982822
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\tag-search-index.js = 1777166982778
+C:\Users\acurr\OneDrive\Documentos\NetBeansProjects\ruletaCC\target\reports\apidocs\type-search-index.js = 1777166982772

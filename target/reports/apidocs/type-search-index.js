@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"udistrital.edu.co.ruletacc.model","l":"Nodo"},{"p":"udistrital.edu.co.ruletacc","l":"RuletaCC"},{"p":"udistrital.edu.co.ruletacc.view","l":"VistaConsola"}];updateSearchResults();
